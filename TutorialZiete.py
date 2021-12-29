@@ -4,9 +4,9 @@ from random import randint
 
 pygame.init()
 ventana = pygame.display.set_mode((800,800))
-pygame.display.set_caption("Tutorial Siete ")
+pygame.display.set_caption("Tutorial Siete")
 
-Mi_imagen=pygame.image.load("Imagenes/kitsune.png")
+Mi_imagen=pygame.image.load("Imagenes/pikachu.gif")
 posX=randint(10,400)
 posY= randint(10,200)
 
