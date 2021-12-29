@@ -6,7 +6,7 @@ pygame.init()
 ventana=pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Tutorial Ocho")
 
-Mi_imagen=pygame.image.load("Imagenes/pikachu.gif")
+Mi_imagen=pygame.image.load("Imagenes/totoro.gif")
 posX=200
 posy=100
 
